@@ -1,0 +1,23 @@
+/* html{
+    background-color: rgba(195, 143, 255, 0.81);
+} */
+/* #root{
+    background-color: rgba(195, 143, 255, 0.81);
+} */
+.app-container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+li.nav-item a {
+    color: #ffffff;
+    margin-right: 15px;
+    text-decoration: none;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.listMember {
+    width: 100%;
+}
